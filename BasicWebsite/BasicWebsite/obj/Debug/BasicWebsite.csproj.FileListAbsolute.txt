@@ -31,3 +31,4 @@ Z:\CS-359-1\GitHub\BasicWebsite\BasicWebsite\bin\Microsoft.CodeDom.Providers.Dot
 Z:\CS-359-1\GitHub\BasicWebsite\BasicWebsite\obj\Debug\BasicWebsite.csprojResolveAssemblyReference.cache
 Z:\CS-359-1\GitHub\BasicWebsite\BasicWebsite\obj\Debug\BasicWebsite.dll
 Z:\CS-359-1\GitHub\BasicWebsite\BasicWebsite\obj\Debug\BasicWebsite.pdb
+Z:\GitHub1\BasicWebsite\BasicWebsite\obj\Debug\BasicWebsite.csprojResolveAssemblyReference.cache

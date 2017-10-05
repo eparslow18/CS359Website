@@ -94,6 +94,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\Arriva_London_bus_LT2_%28LT61_BHT%29_2011_New_Bus_for_London,_Victoria,_route_38,_27_February_2012.jpg" />
+    <Content Include="Images\bus.jpg" />
+    <Content Include="Images\images.jpg" />
     <Content Include="Images\London.jpg" />
     <Content Include="Images\Solarpanels.jpg" />
     <Content Include="packages.config" />
