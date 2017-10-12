@@ -32,3 +32,4 @@ Z:\CS-359-1\GitHub\BasicWebsite\BasicWebsite\obj\Debug\BasicWebsite.csprojResolv
 Z:\CS-359-1\GitHub\BasicWebsite\BasicWebsite\obj\Debug\BasicWebsite.dll
 Z:\CS-359-1\GitHub\BasicWebsite\BasicWebsite\obj\Debug\BasicWebsite.pdb
 Z:\GitHub1\BasicWebsite\BasicWebsite\obj\Debug\BasicWebsite.csprojResolveAssemblyReference.cache
+\\cs1\2018\agonzalez18\CS-359-1\GitHub1\BasicWebsite\BasicWebsite\obj\Debug\BasicWebsite.csprojResolveAssemblyReference.cache
